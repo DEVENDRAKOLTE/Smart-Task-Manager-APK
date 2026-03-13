@@ -1,2 +1,13 @@
 # Smart-Task-Manager-APK
-A simple Android Smart Task Manager application built using Java to manage daily tasks
+Smart Task Manager Android App
+
+Features:
+- Add tasks
+- Edit tasks
+- Delete tasks
+- Mark task as completed
+
+Technology:
+- Java
+- Android Studio
+- SQLite Database
